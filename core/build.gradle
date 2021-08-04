@@ -33,7 +33,7 @@ dependencies {
 publish {
     userOrg = 'shilu'
     groupId = 'me.shilu'
-    artifactId = 'JavaFridaApi'
+    artifactId = 'jreflect'
     publishVersion = '0.0.1'
     desc = 'Refer to Frida\'s api style to implement a Java reflection library.'
     website = 'https://github.com/Humenger/jreflect'
