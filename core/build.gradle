@@ -6,7 +6,7 @@ android {
 
 
     defaultConfig {
-        minSdkVersion 23
+        minSdkVersion 15
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -34,7 +34,7 @@ publish {
     userOrg = 'shilu'
     groupId = 'me.shilu'
     artifactId = 'jreflect'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     desc = 'Refer to Frida\'s api style to implement a Java reflection library.'
     website = 'https://github.com/Humenger/jreflect'
 }
